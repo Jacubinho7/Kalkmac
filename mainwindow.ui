@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1148</width>
+    <height>788</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>40</y>
+      <width>295</width>
+      <height>295</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="1" column="2">
+      <widget class="QTextEdit" name="a_5">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QTextEdit" name="a_4">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QTextEdit" name="a_0">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QTextEdit" name="a_1">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QTextEdit" name="a_2">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QTextEdit" name="a_3">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QTextEdit" name="a_6">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QTextEdit" name="a_7">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QTextEdit" name="a_8">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>40</y>
+      <width>295</width>
+      <height>295</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_2">
+     <item row="1" column="1">
+      <widget class="QTextEdit" name="b_4">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QTextEdit" name="b_3">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QTextEdit" name="b_0">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QTextEdit" name="b_1">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QTextEdit" name="b_2">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <widget class="QTextEdit" name="b_5">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QTextEdit" name="b_6">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QTextEdit" name="b_7">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QTextEdit" name="b_8">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_3">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>40</y>
+      <width>295</width>
+      <height>295</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_3">
+     <item row="0" column="0">
+      <widget class="QTextEdit" name="c_0">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QTextEdit" name="c_4">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QTextEdit" name="c_3">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QTextEdit" name="c_1">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QTextEdit" name="c_2">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <widget class="QTextEdit" name="c_5">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QTextEdit" name="c_6">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QTextEdit" name="c_7">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QTextEdit" name="c_8">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #32CD32;
+border: 1px lime green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_4">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>360</y>
+      <width>591</width>
+      <height>170</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_4">
+     <item row="0" column="0">
+      <widget class="QPushButton" name="suma">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>A+B</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QPushButton" name="AxB">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>AxB</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="roznica">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>A-B</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QPushButton" name="Atrans">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>A^(T)</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QPushButton" name="detA">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>det A</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QPushButton" name="BxA">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>BxA</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QPushButton" name="Btrans">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>B^(T)</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QPushButton" name="detB">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>det B</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QPushButton" name="czyscA">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>Czyść A</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="1">
+      <widget class="QPushButton" name="czyscB">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+       <property name="text">
+        <string>Czyść B</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>350</y>
+      <width>301</width>
+      <height>195</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QTextEdit" name="wyznacznikA">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QTextEdit" name="wyznacznikB">
+       <property name="styleSheet">
+        <string notr="true">QTextEdit {
+
+background-color: #7CFC00;
+border: 1px lawn green;
+padding: 4px;
+
+}</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1148</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
